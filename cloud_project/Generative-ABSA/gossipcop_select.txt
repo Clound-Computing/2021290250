@@ -1,0 +1,6 @@
+“Scott is definitely trying to get better, but he still has bad moments,” a source tells PEOPLE. “When he starts partying, he doesn’t know when to stop. It’s concerning to see. Everyone hopes he’ll continue on a good path.”####[('Scott', 'comment', 'negative')]
+"Brad and Angie are both very secretive about their dating life. Angie has told some friends she isn't ready to date, but she has been seeing a handsome, older-looking man who is a real estate agent," a source tells ET. "He isn't a celebrity or high profile in any way."####[('Brad and Angie', 'society', 'positive')]Cait has a wedding planner to handle all the details####[('wedding planner', 'thing', 'positive')]
+It’s no secret that Caitlyn and Sophia have a very close relationship, though. ####[('relationship', 'society', 'positive')]
+Us Weekly reported last week that Lionel threatened to cut Sofia out of his will if she continued her relationship with Disick. ####[('relationship', 'society', 'negative')]
+Six years later, she got a second chance to live her young girl’s dream as she performed the vocals of Mulan in the 1998 Disney film of that name.####[('she', 'dream', 'positive')]
+Salonga’s distinctive voice will return to Southern California for concerts tonight at the Valley Performing Arts Center in Northridge and Saturday at Segerstrom Center for the Arts. ###[('voice', 'plan', 'positive')]

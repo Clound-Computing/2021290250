@@ -1,0 +1,3 @@
+Scott is definitely trying to get better, but he still has bad moments, when he starts partying, he doesn't know when to stop. It's concerning to see. Everyone hopes he'll continue on a good path.####[('Scott', 'comment', 'negative')]
+Brad and Angie are both very secretive about their dating life, Angie has told some friends she isn't ready to date, but she has been seeing a handsome, older-looking man who is a real estate agent, he isn't a celebrity or high profile in any way.####[('Brad and Angie', 'society', 'positive')]
+We are the parents of a lovely daughter whom we will continue to coparent for many years and share her joys and sorrows as only a parent can.####[('parents', 'family', 'positive')]
